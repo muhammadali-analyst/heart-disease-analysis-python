@@ -55,7 +55,8 @@ A comprehensive statistical summary of the dataset is generated, offering key me
 
 9. Draw Correlation Matrix:
 To explore relationships between different features, a correlation matrix is visualized using a heatmap. This step facilitates the identification of potential correlations among variables.
-![Correlation Heatmap](images/8.png)
+![Correlation Heatmap](images/9.PNG)
+
 
 
 🔗 About Me
