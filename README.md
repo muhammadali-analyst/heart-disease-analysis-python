@@ -15,7 +15,7 @@ This repository contains an interactive dashboard built in python using differen
 
 ## 💡 Insights
 
-# Some of the key findings from this analysis:
+## Some of the key findings from this analysis:
 
 Male Patients Have Higher Heart Disease Rates
 Gender-based analysis shows men are affected more than women in this dataset.
