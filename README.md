@@ -56,7 +56,7 @@ A comprehensive statistical summary of the dataset is generated, offering key me
 9. Draw Correlation Matrix:
 To explore relationships between different features, a correlation matrix is visualized using a heatmap. This step facilitates the identification of potential correlations among variables.
 ![Correlation Heatmap](9.PNG)
-!(10.PNG)
+![](10.PNG)
 
 11. Heart Disease Incidence:
 The dataset is analyzed to determine the number of individuals with and without heart disease. A count plot visually represents this distribution.
@@ -64,11 +64,11 @@ The dataset is analyzed to determine the number of individuals with and without 
 
 12. Gender Distribution:
 The gender distribution within the dataset is examined, providing insights into the proportion of males and females.
-!(11.PNG)
+![](11.PNG)
 
 13. Gender Distribution According to the Target Variable:
 A more nuanced analysis explores how the gender distribution varies concerning the target variable, distinguishing between individuals with and without heart disease.
-!(12.PNG)
+![](12.PNG)
 
 14. Age Distribution:
 The distribution of ages in the dataset is visualized through a histogram, offering insights into the age range of the individuals under study.
