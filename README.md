@@ -56,6 +56,47 @@ A comprehensive statistical summary of the dataset is generated, offering key me
 9. Draw Correlation Matrix:
 To explore relationships between different features, a correlation matrix is visualized using a heatmap. This step facilitates the identification of potential correlations among variables.
 ![Correlation Heatmap](9.PNG)
+!(10.PNG)
+
+11. Heart Disease Incidence:
+The dataset is analyzed to determine the number of individuals with and without heart disease. A count plot visually represents this distribution.
+
+
+12. Gender Distribution:
+The gender distribution within the dataset is examined, providing insights into the proportion of males and females.
+!(11.PNG)
+
+13. Gender Distribution According to the Target Variable:
+A more nuanced analysis explores how the gender distribution varies concerning the target variable, distinguishing between individuals with and without heart disease.
+!(12.PNG)
+
+14. Age Distribution:
+The distribution of ages in the dataset is visualized through a histogram, offering insights into the age range of the individuals under study.
+!(13.PNG)
+
+15. Chest Pain Type Analysis: 
+An analysis of chest pain types, categorized into four values, is conducted. A count plot reveals the prevalence of each chest pain type.
+!(14.PNG)
+
+16. Chest Pain Distribution as Per Target Variable:
+This analysis delves into how chest pain types are distributed concerning the target variable, providing insights into their correlation with heart disease incidence.
+!(15.PNG)
+!(16.PNG)
+
+17. Fasting Blood Sugar Distribution:
+The distribution of fasting blood sugar levels is examined, differentiating between individuals with and without heart disease.
+!(17.PNG)
+
+
+
+18. Resting Blood Pressure Comparison by Sex:
+A comparative analysis explores how resting blood pressure varies between males and females.
+!(18.PNG)
+
+19. Plot Continuous Variables:
+Finally, continuous variables are identified, and histograms are generated to visualize their distributions. This step adds depth to the exploration of the dataset.
+!(19.PNG)
+In conclusion, the "Heart Disease Data Analysis Project" employs a systematic approach to explore and understand the dataset, unraveling key patterns and insights related to heart health. Each step contributes to a comprehensive analysis, enabling meaningful interpretations and potential avenues for further investigation.
 
 
 
